@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- ### 🔭 I’m currently working on Networkin Tools written in Python and Golang.
+ ### 🔭 I’m currently working on Networking Tools written in Python and Golang.
  ### 🌱 I’m currently learning Network Security and Pentesting
  ### 
